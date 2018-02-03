@@ -1,0 +1,1 @@
+webpackJsonp([0],{9:function(n,t,o){"use strict";(function(n){n(function(){n("body").append('<button class="btn btn-danger" type="button">这是一个按钮</button>')})}).call(t,o(0))}},[9]);
